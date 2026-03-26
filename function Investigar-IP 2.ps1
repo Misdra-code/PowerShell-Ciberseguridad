@@ -5,7 +5,7 @@ function Investigar-IP {
 	)
 
     # Tu API Key de AbuseIPDB
-    $ApiKey = "252135369f5d444b4020f1150d0aba39b5375c31b66407a454ab2fab85b7f61de81c3d0b1d0c2d88"
+    $ApiKey = "[TU API KEY]"
 
     $Headers = @{
         "Key" = $ApiKey
